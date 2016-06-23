@@ -4,3 +4,4 @@ be281f30bf634bfb59b1a41a7ec6faf7e7240eb6 Fields in methods whose receiver is not
 36370ee1b72e8e9ffbd06737ed4c2d05305b327c Merge branch 'issue767' of https://github.com/smillst/checker-framework into issue767
 b5e392e78984574d4d39f643b9d5c6137d7affc3 style
 1914b050fc3393d1f12fee66e3d70d72fb90e61d Pass parse settings around
+b6a8aa3a32a630d8f453ef4874df5df6735cc79c alter copy of settings
