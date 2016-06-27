@@ -6,3 +6,4 @@ b5e392e78984574d4d39f643b9d5c6137d7affc3 style
 1914b050fc3393d1f12fee66e3d70d72fb90e61d Pass parse settings around
 b6a8aa3a32a630d8f453ef4874df5df6735cc79c alter copy of settings
 c6c61d7f9645bf6c30e8b78ac2b82c28c0dc9249 passes lock test
+98ff7c8c06f20b407bc5cd85726b8a2f8ad71762 KeyFor improvements
